@@ -1,0 +1,1 @@
+Esse é um exemplo simples de API que consome outra api usando axios e serve na porta 4567 para ser consumido por um front simples aqui no arquivo index.html
